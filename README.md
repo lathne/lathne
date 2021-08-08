@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Laura :raising_hand_woman:</h1> 
 
 
--  I’m currently studying Web Development at [Laboratoria](https://github.com/Laboratoria)
+-  I’m currently studying Web Development at [Laboratoria](https://github.com/Laboratoria) :woman_technologist: 
 -  **Pronouns :** She/Her
--  **Hobbies :** Books :books: | Games :video_game: | Coding :woman_technologist: 
+-  **Hobbies :** Books :books: | Games :video_game:  
 
 <div>
   <a href="https://github.com/lathne">
