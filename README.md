@@ -18,9 +18,14 @@
   <a href="https://codepen.io/lathne" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
 </p>
   
-  ##
-  ![visitors](https://page-views.glitch.me/badge?page_id=lathne.lathne)
+  <p align="center"> 
 
+ <h3 align="center"> Visitors: </h3>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lathne/count.svg" />
+ </p>
+
+</p>
   
 
 
