@@ -11,13 +11,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lathne&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<h3 align="center">Contact</h3> 
-
-<p align="center">
-   <a href = "mailto:laurathomazi@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/laura-tn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+  ##
+  
+ <p align="center">
+  <a href="https://www.linkedin.com/in/laura-tn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="https://codepen.io/lathne" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
 </p>
   
-##
-![visitors](https://page-views.glitch.me/badge?page_id=lathne.lathne)
+  ##
+  ![visitors](https://page-views.glitch.me/badge?page_id=lathne.lathne)
+
+  
+
+
