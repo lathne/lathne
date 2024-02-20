@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Laura</h1> 
 
 
--  I'm a Front-end developer graduated from [Laboratoria](https://github.com/Laboratoria) :woman_technologist: 
+-  I'm a software developer graduated from [Laboratoria](https://github.com/Laboratoria) :woman_technologist: 
 -  **Pronouns :** She/Her
 -  **Hobbies :** Books :books: | Games :video_game:  
 
