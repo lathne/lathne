@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Laura</h1> 
 
 
--  I'm a software developer graduated from [Laboratoria](https://github.com/Laboratoria) :woman_technologist: 
--  **Pronouns :** She/Her
--  **Hobbies :** Books :books: | Games :video_game:  
+-  :woman_technologist: 
+-  :books:
+-  :video_game:  
 
 ##
 <div align="center">
